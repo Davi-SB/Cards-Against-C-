@@ -2,6 +2,8 @@
 #include <fstream>
 using namespace std;
 
+// escritor para ter o arquivo *exemplo* das frases numeradas
+
 int main() {
 
     ofstream arquivozada("BlackDeck.txt");
