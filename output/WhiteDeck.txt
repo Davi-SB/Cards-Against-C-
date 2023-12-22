@@ -1,457 +1,446 @@
-000. WHITE0 - CZAR
-001. WHITE1
-002. WHITE2
-003. WHITE3
-004. WHITE4
-005. WHITE5
-006. WHITE6
-007. WHITE7
-008. WHITE8
-009. WHITE9
-010. WHITE10
-011. WHITE11
-012. WHITE12
-013. WHITE13
-014. WHITE14
-015. WHITE15
-016. WHITE16
-017. WHITE17
-018. WHITE18
-019. WHITE19
-020. WHITE20
-021. WHITE21
-022. WHITE22
-023. WHITE23
-024. WHITE24
-025. WHITE25
-026. WHITE26
-027. WHITE27
-028. WHITE28
-029. WHITE29
-030. WHITE30
-031. WHITE31
-032. WHITE32
-033. WHITE33
-034. WHITE34
-035. WHITE35
-036. WHITE36
-037. WHITE37
-038. WHITE38
-039. WHITE39
-040. WHITE40
-041. WHITE41
-042. WHITE42
-043. WHITE43
-044. WHITE44
-045. WHITE45
-046. WHITE46
-047. WHITE47
-048. WHITE48
-049. WHITE49
-050. WHITE50
-051. WHITE51
-052. WHITE52
-053. WHITE53
-054. WHITE54
-055. WHITE55
-056. WHITE56
-057. WHITE57
-058. WHITE58
-059. WHITE59
-060. WHITE60
-061. WHITE61
-062. WHITE62
-063. WHITE63
-064. WHITE64
-065. WHITE65
-066. WHITE66
-067. WHITE67
-068. WHITE68
-069. WHITE69
-070. WHITE70
-071. WHITE71
-072. WHITE72
-073. WHITE73
-074. WHITE74
-075. WHITE75
-076. WHITE76
-077. WHITE77
-078. WHITE78
-079. WHITE79
-080. WHITE80
-081. WHITE81
-082. WHITE82
-083. WHITE83
-084. WHITE84
-085. WHITE85
-086. WHITE86
-087. WHITE87
-088. WHITE88
-089. WHITE89
-090. WHITE90
-091. WHITE91
-092. WHITE92
-093. WHITE93
-094. WHITE94
-095. WHITE95
-096. WHITE96
-097. WHITE97
-098. WHITE98
-099. WHITE99
-100. WHITE100
-101. WHITE101
-102. WHITE102
-103. WHITE103
-104. WHITE104
-105. WHITE105
-106. WHITE106
-107. WHITE107
-108. WHITE108
-109. WHITE109
-110. WHITE110
-111. WHITE111
-112. WHITE112
-113. WHITE113
-114. WHITE114
-115. WHITE115
-116. WHITE116
-117. WHITE117
-118. WHITE118
-119. WHITE119
-120. WHITE120
-121. WHITE121
-122. WHITE122
-123. WHITE123
-124. WHITE124
-125. WHITE125
-126. WHITE126
-127. WHITE127
-128. WHITE128
-129. WHITE129
-130. WHITE130
-131. WHITE131
-132. WHITE132
-133. WHITE133
-134. WHITE134
-135. WHITE135
-136. WHITE136
-137. WHITE137
-138. WHITE138
-139. WHITE139
-140. WHITE140
-141. WHITE141
-142. WHITE142
-143. WHITE143
-144. WHITE144
-145. WHITE145
-146. WHITE146
-147. WHITE147
-148. WHITE148
-149. WHITE149
-150. WHITE150
-151. WHITE151
-152. WHITE152
-153. WHITE153
-154. WHITE154
-155. WHITE155
-156. WHITE156
-157. WHITE157
-158. WHITE158
-159. WHITE159
-160. WHITE160
-161. WHITE161
-162. WHITE162
-163. WHITE163
-164. WHITE164
-165. WHITE165
-166. WHITE166
-167. WHITE167
-168. WHITE168
-169. WHITE169
-170. WHITE170
-171. WHITE171
-172. WHITE172
-173. WHITE173
-174. WHITE174
-175. WHITE175
-176. WHITE176
-177. WHITE177
-178. WHITE178
-179. WHITE179
-180. WHITE180
-181. WHITE181
-182. WHITE182
-183. WHITE183
-184. WHITE184
-185. WHITE185
-186. WHITE186
-187. WHITE187
-188. WHITE188
-189. WHITE189
-190. WHITE190
-191. WHITE191
-192. WHITE192
-193. WHITE193
-194. WHITE194
-195. WHITE195
-196. WHITE196
-197. WHITE197
-198. WHITE198
-199. WHITE199
-200. WHITE200
-201. WHITE201
-202. WHITE202
-203. WHITE203
-204. WHITE204
-205. WHITE205
-206. WHITE206
-207. WHITE207
-208. WHITE208
-209. WHITE209
-210. WHITE210
-211. WHITE211
-212. WHITE212
-213. WHITE213
-214. WHITE214
-215. WHITE215
-216. WHITE216
-217. WHITE217
-218. WHITE218
-219. WHITE219
-220. WHITE220
-221. WHITE221
-222. WHITE222
-223. WHITE223
-224. WHITE224
-225. WHITE225
-226. WHITE226
-227. WHITE227
-228. WHITE228
-229. WHITE229
-230. WHITE230
-231. WHITE231
-232. WHITE232
-233. WHITE233
-234. WHITE234
-235. WHITE235
-236. WHITE236
-237. WHITE237
-238. WHITE238
-239. WHITE239
-240. WHITE240
-241. WHITE241
-242. WHITE242
-243. WHITE243
-244. WHITE244
-245. WHITE245
-246. WHITE246
-247. WHITE247
-248. WHITE248
-249. WHITE249
-250. WHITE250
-251. WHITE251
-252. WHITE252
-253. WHITE253
-254. WHITE254
-255. WHITE255
-256. WHITE256
-257. WHITE257
-258. WHITE258
-259. WHITE259
-260. WHITE260
-261. WHITE261
-262. WHITE262
-263. WHITE263
-264. WHITE264
-265. WHITE265
-266. WHITE266
-267. WHITE267
-268. WHITE268
-269. WHITE269
-270. WHITE270
-271. WHITE271
-272. WHITE272
-273. WHITE273
-274. WHITE274
-275. WHITE275
-276. WHITE276
-277. WHITE277
-278. WHITE278
-279. WHITE279
-280. WHITE280
-281. WHITE281
-282. WHITE282
-283. WHITE283
-284. WHITE284
-285. WHITE285
-286. WHITE286
-287. WHITE287
-288. WHITE288
-289. WHITE289
-290. WHITE290
-291. WHITE291
-292. WHITE292
-293. WHITE293
-294. WHITE294
-295. WHITE295
-296. WHITE296
-297. WHITE297
-298. WHITE298
-299. WHITE299
-300. WHITE300
-301. WHITE301
-302. WHITE302
-303. WHITE303
-304. WHITE304
-305. WHITE305
-306. WHITE306
-307. WHITE307
-308. WHITE308
-309. WHITE309
-310. WHITE310
-311. WHITE311
-312. WHITE312
-313. WHITE313
-314. WHITE314
-315. WHITE315
-316. WHITE316
-317. WHITE317
-318. WHITE318
-319. WHITE319
-320. WHITE320
-321. WHITE321
-322. WHITE322
-323. WHITE323
-324. WHITE324
-325. WHITE325
-326. WHITE326
-327. WHITE327
-328. WHITE328
-329. WHITE329
-330. WHITE330
-331. WHITE331
-332. WHITE332
-333. WHITE333
-334. WHITE334
-335. WHITE335
-336. WHITE336
-337. WHITE337
-338. WHITE338
-339. WHITE339
-340. WHITE340
-341. WHITE341
-342. WHITE342
-343. WHITE343
-344. WHITE344
-345. WHITE345
-346. WHITE346
-347. WHITE347
-348. WHITE348
-349. WHITE349
-350. WHITE350
-351. WHITE351
-352. WHITE352
-353. WHITE353
-354. WHITE354
-355. WHITE355
-356. WHITE356
-357. WHITE357
-358. WHITE358
-359. WHITE359
-360. WHITE360
-361. WHITE361
-362. WHITE362
-363. WHITE363
-364. WHITE364
-365. WHITE365
-366. WHITE366
-367. WHITE367
-368. WHITE368
-369. WHITE369
-370. WHITE370
-371. WHITE371
-372. WHITE372
-373. WHITE373
-374. WHITE374
-375. WHITE375
-376. WHITE376
-377. WHITE377
-378. WHITE378
-379. WHITE379
-380. WHITE380
-381. WHITE381
-382. WHITE382
-383. WHITE383
-384. WHITE384
-385. WHITE385
-386. WHITE386
-387. WHITE387
-388. WHITE388
-389. WHITE389
-390. WHITE390
-391. WHITE391
-392. WHITE392
-393. WHITE393
-394. WHITE394
-395. WHITE395
-396. WHITE396
-397. WHITE397
-398. WHITE398
-399. WHITE399
-400. WHITE400
-401. WHITE401
-402. WHITE402
-403. WHITE403
-404. WHITE404
-405. WHITE405
-406. WHITE406
-407. WHITE407
-408. WHITE408
-409. WHITE409
-410. WHITE410
-411. WHITE411
-412. WHITE412
-413. WHITE413
-414. WHITE414
-415. WHITE415
-416. WHITE416
-417. WHITE417
-418. WHITE418
-419. WHITE419
-420. WHITE420
-421. WHITE421
-422. WHITE422
-423. WHITE423
-424. WHITE424
-425. WHITE425
-426. WHITE426
-427. WHITE427
-428. WHITE428
-429. WHITE429
-430. WHITE430
-431. WHITE431
-432. WHITE432
-433. WHITE433
-434. WHITE434
-435. WHITE435
-436. WHITE436
-437. WHITE437
-438. WHITE438
-439. WHITE439
-440. WHITE440
-441. WHITE441
-442. WHITE442
-443. WHITE443
-444. WHITE444
-445. WHITE445
-446. WHITE446
-447. WHITE447
-448. WHITE448
-449. WHITE449
-450. WHITE450
-451. WHITE451
-452. WHITE452
-453. WHITE453
-454. WHITE454
-455. WHITE455
-456. WHITE456
+000. CZAR.
+001. Um momento  de silêncio. 
+002. Um festival da linguiça. 
+003. Um policial honesto sem nada a perder. 
+004. Escassez de comida. 
+005. Bactéria carnívora. 
+006. Erva para aumentar a libido. 
+007. Não dar a mínima para o Terceiro Mundo. 
+008. Sexting. 
+009. Transmutação corpórea. 
+010. Atrizes pornô.  
+011. 72 virgens. 
+012. Fuzilamento. 
+013. Um paradoxo de viagem no tempo. 
+014. Autêntica cozinha mexicana. 
+015. Cintilante. 
+016. Consultores. 
+017. Dívida monstruosa.  
+018. Cotas raciais. 
+019. Deixar o lustre cair sobre seus inimigos enquanto a outra ponta da corda te lança pra cima. 
+020. O ex-presidente Lula. 
+021. Nudez frontal. 
+022. Injeções hormonais. 
+023. Pôr um ovo. 
+024. Assistir Cartoon Network pelado(a). 
+025. Fingir que se importa. 
+026. Pagar mico em público. 
+027. Compartilhar agulhas. 
+028. Meleca de nariz. 
+029. A inevitável morte térmica do universo. 
+030. O milagre do parto. 
+031. O apocalise. 
+032. Passar o rodo. 
+033. O privilégio de ser branco. 
+034. Deveres da esposa. 
+035. Uma viagem para Pelotas. 
+036. Desodorante AXE. 
+037. O sangue de Cristo. 
+038. Horríveis acidentes causados por depilação a laser. 
+039. BATMAN!!!.
+040. Agricultura. 
+041. Um mongolóide vigoroso. 
+042. Seleção natural. 
+043. Aborto clandestino. 
+044. Comer todos os doces que deveriam ser vendidos na campanha de caridade. 
+045. Os braços da Michelle Obama. 
+046. O jogo World of Warcraft. 
+047. Cobiçar a mulher do próximo. 
+048. Obesidade. 
+049. Um clipe homo-erótico sobre voleibol. 
+050. Tétano. 
+051. Exibição para fins de acasalamento. 
+052. Torção testicular. 
+053. Buffet de camarão livre por R$ 4,99. 
+054. Feijoada. 
+055. Kanye West. 
+056. Queijo quente. 
+057. Ataques de velociraptor. 
+058. Tirar a camisa. 
+059. Esmegma. 
+060. Alcoholismo. 
+061. Um cara de meia idade andando de patins. 
+062. Os raios de sentimentos bons dos Ursinhos Carinhosos. 
+063. Empanturrar-se e purgar-se. 
+064. Pirulitos gigantes. 
+065. Auto-repugnância. 
+066. Crianças na coleira. 
+067. Preliminares meia-boca. 
+068. A Bíblia Sagrada. 
+069. Pornô calabouço- alemão. 
+070. Estar em chamas. 
+071. Gravidez na adolescência. 
+072. Deixar uma mensagem de voz esquisita. 
+073. Uppercuts. 
+074. Funcionários do serviço de atendimento ao cliente. 
+075. Uma ereção que dura mais que quatro horas. 
+076. Minha genitália. 
+077. Pegar mulher na clínica de aborto. 
+078. Ciência. 
+079. Sexo oral não recíproco. 
+080. Aves que não voam. 
+081. Uma boa cheirada. 
+082. Afogamento simulado. 
+083. Café da manhã balanceado. 
+084. Faculdades historicamente mais frequentadas por gays. 
+085. Literalmente roubar doce de criança. 
+086. A fundação Airton Sena.
+087. Um arranhão no traseiro mantido em segredo. 
+088. Notas passivo- agressivas no trabalho. 
+089. O time de ginástica chinês. 
+090. Depender do SUS. 
+091. Mijar um pouco. 
+092. Capitão Nascimento levando bronca da sogra. 
+093. Polução noturna. 
+094. Os judeus. 
+095. Minhas curvas. 
+096. Coisas poderosas. 
+097. Piscar para idosos. 
+098. Repórteres de programa humorístico. 
+099. Uma carícia suave na parte interna da coxa. 
+100. Tensão sexual. 
+101. O fruto proibido. 
+102. Esqueleto. 
+103. Churrasco na lage. 
+104. Ser rico. 
+105. Doce, doce vingança. 
+106. Republicanos. 
+107. Um antílope flatulento. 
+108. Natalie Portman. 
+109. Acariciar alguém sem permissão. 
+110. Pilotos Kamikaze. 
+111. Sean Connery. 
+112. A agenda homossexual. 
+113. O Mexicano que trabalha duro. 
+114. Um falcão emcapuzado. 
+115. O cara da previsão do tempo. 
+116. Ficar tão nervoso a ponto de ter uma ereção. 
+117. Amostras grátis. 
+118. Um grande estardalhaço por nada. 
+119. Fazer a coisa certa. 
+120. O jeitinho brasileiro. 
+121. Lactação. 
+122. Paz mundial. 
+123. RoboCop. 
+124. Senvergonhice. 
+125. Justin Bieber. 
+126. Oompa-Loompas. 
+127. Cantar à tirolesa inapropriadamente,. 
+128. Puberdade. 
+129. Fantasmas. 
+130. Implantes de silicone assimétricos. 
+131. Axé Music. 
+132. Masturbação Dinheiro na Sacolé. Brutalidade 
+133. feminina. cueca. policial. 
+134. Flanelinhas. 
+135. Pré-adolescentes. 
+136. Escalpeamento. 
+137. Deixar escapar uma risadinha à menção de Tutsis e Hutus. 
+138. Twittar. 
+139. Darth Vader. 
+140. Uma masturbação triste. 
+141. Justamente o que você esperaria. 
+142. Esperar um arroto e acabar vomitando no chão. 
+143. Gardenal. 
+144. Células tronco. 
+145. Vestir-se de modo a exibir a lateral dos seios com elegância. 
+146. Sexo entre pandas. 
+147. Lobotomia. 
+148. Tom Cruise. 
+149. Herpes bucal. 
+150. Cachalotes. 
+151. Moradores de rua. 
+152. Dar uns amassos. 
+153. Incesto. 
+154. Ejaculação precoce. 
+155. Um mímico tendo um AVC. 
+156. Hulk Hogan. 
+157. Coçar sob as dobras da pele. 
+158. Emoções. 
+159. Lamber coisas para estabelecer que são propriedade sua. 
+160. Cerveja quente. 
+161. A placenta. 
+162. Combustão humana espontânea. 
+163. Amizade colorida. 
+164. Pintar com os dedos. 
+165. Cheiro de pessoa velha. 
+166. Morrer de disenteria. 
+167. Meus demonios interiores. 
+168. Pistola d'água cheia de urina de gato. 
+169. Aaron Burr. 
+170. Chamego. 
+171. A crônica. 
+172. Rinha de galo. 
+173. Fogo amigo. 
+174. Ronald Reagan. 
+175. Uma festa de aniversário decepcionante. 
+176. Uma negra atrevida. 
+177. Atleta de olimpíada de matemática. 
+178. Um cavalo minúsculo. 
+179. William Shatner. 
+180. Cavalgar rumo ao pôr do sol. 
+181. Uma reviravolta num roteiro de M. Night 
+182. Shyamalan. 
+183. Judeu de cabelo afro. 
+184. Destruição Mútua Assegurada (MAD). 
+185. Pedófilos. 
+186. Fungos. 
+187. Roubar sepultura. 
+188. Comer o último bisão conhecido. 
+189. Catapultas. 
+190. Os pobres. 
+191. O Doce Veneno do Escorpião. 
+192. Funk Proibidão. 
+193. A Força. 
+194. Limpar a bunda dela. 
+195. Design Inteligente. 
+196. Lingua solta. 
+197. AIDS. 
+198. Imagens de seios. 
+199. O Úbermensch. 
+200. Sarah Palin. 
+201. Legião dos Super-Heróis Brasileiros. 
+202. Ficar completamente dopado. 
+203. Cientologia. 
+204. Inveja do pênis. 
+205. Rezar pra curar homossexualismo. 
+206. Flertar. 
+207. Dois anões cagando num balde. 
+208. A Ku Klux Klan. 
+209. Genghis Khan. 
+210. Metanfetamina. 
+211. Servidão. 
+212. Perigo relacionado à pessoas estranhas. 
+213. Um brinquedo Bop It'Y“, A carreira de ator do Shaquille O'Neal. 
+214. Exibir-se. 
+215. Milícias. 
+216. Sobrecompensação. 
+217. Cena de “bukkake” em baixa resolução. 
+218. Uma vida de tristeza. 
+219. Racismo. 
+220. Arremesso de anão. 
+221. Felicidade ingênua. 
+222. Um macaco fumando cigarro. 
+223. Inundação. 
+224. O testículo ausente em Lance Armstrong. 
+225. Ânsia de vômito. 
+226. Terroristas. 
+227. Britney Spears aos 55. 
+228. Atitude. 
+229. Subitamente cantar e dançar uma canção em público. 
+230. Lepra. 
+231. Buracos gloriosos. 
+232. Mamilos protuberantes. 
+233. O coração de uma criança. 
+234. Filhotes de cachorro. 
+235. Acordar semi-nú num estacionamento a céu aberto. 
+236. Dental dams. 
+237. A vagina da Toni Morrison. 
+238. Períneo. 
+239. Escuta ativa. 
+240. Limpeza étnica. 
+241. Comer, rezar, amar. 
+242. A mão invisível. 
+243. Esperando até o casamento. 
+244. Estupidez incomensurável. 
+245. Euphoria, por Calvin Klein. 
+246. Repassar o presente. 
+247. Auto-canibalismo. 
+248. Disfunção erétil. 
+249. Minha coleção de brinquedos sexuais eletrônicos. 
+250. Brancos. 
+251. Pornografia envolvendo tentáculos. 
+252. Gel de cabelo em excesso. 
+253. Seppuku. 
+254. Dançar no gelo com parceiro do mesmo sexo. 
+255. Trapacear na olimpíada para-olímpica. 
+256. Carisma. 
+257. Keanu Reeves. 
+258. Sean Penn. 
+259. Nickelback. 
+260. Uma inspeção. 
+261. Distribuir camisinhas em porta de igreja. 
+262. Menstruação. 
+263. Crianças com cancer anal. 
+264. Uma surpresa desagradavel. 
+265. O sul. 
+266. Violação dos mais básicos de nossos direitos humanos. 
+267. PEDE PRA SAIR!.
+268. Ser fabuloso. 
+269. Necrofilia. 
+270. Centauros. 
+271. Os cientistas desocupados da Austrália. 
+272. Cavalheirismo. 
+273. Quentinha. 
+274. Vadias. 
+275. Retardados. 
+276. Órfãos. 
+277. MechaHitler. 
+278. Evacuação dolorosa. 
+279. Outro maltido filme sobre vampiros. 
+280. Mola maluca. 
+281. O verdadeiro significado do Natal. 
+282. Estrogênio. 
+283. Indigestão de torresmo. 
+284. Aquele negócio que eletrocuta o abdomen. 
+285. Cálculo renal. 
+286. Clareamento anal. 
+287. Michael Jackson. 
+288. Melhoramentos cibernéticos. 
+289. Caras que não telefonam. 
+290. Lençois infectados com varíola. 
+291. Masturbação. 
+292. Conotações classistas. 
+293. Emitir flatos vaginais. 
+294. Esconder uma ereção. 
+295. Lingerie comestível. 
+296. Viagra€O,. 
+297. Sopa muito quente.  
+298. Sexo surpresa! 
+299. X-Tudão. 
+300. Beber sozinho. 
+301. Mão furada. 
+302. Múltiplas facadas. 
+303. Sujar-se. 
+304. Abuso infantil. 
+305. Cordão anal com nódulos e alça de segurança. 
+306. Vítimas civís. 
+307. Coito interrompido. 
+308. Robert Downey, Jr. 
+309. Carne de cavalo. 
+310. Um chapéu super transado. 
+311. Kim Jongr-il. 
+312. Um pelo pubiano. 
+313. Fraternidades judias. 
+314. Cotas raciais. 
+315. Fazer aquilo na bunda. 
+316. Alimentar Rosie O'Donnell. 
+317. Ensinar um robô a amar. 
+318. Ser foda. 
+319. Um moinho de vento cheio de cadáveres. 
+320. Toddynho. 
+321. Vestir roupa íntima ao avesso pra economizar uma lavada. 
+322. Um raio da morte. 
+323. Teto de vidro. 
+324. Um congelador cheio de órgãos. 
+325. O Sonho Americano. 
+326. Barriga de chopp. 
+327. Quando você peida e sai mais do que devia. 
+328. Pegar de volta o que foi dado. 
+329. Bebês mortos. 
+330. Prepúcio. 
+331. Solos de saxofone. 
+332. Italianos. 
+333. Um feto. 
+334. Disparar uma espingarda para o alto enquanto trepa com uma cabra que está aos berros. 
+335. Dick Cheney. 
+336. Amputados. 
+337. Eugenia. 
+338. O status de minha relação. 
+339. Christopher Walken. 
+340. Abelhas?. 
+341. Erotismo baseado em Harry Potter. 
+342. Faculdade. 
+343. Ficar bêbado ao bochechar anti-séptico bucal. 
+344. Nazistas. 
+345. 200 gramas de doce heroina preta Mexicana. 
+346. Stephen Hawking dizendo coisas obscenas. 
+347. Pais mortos. 
+348. Permanência do objeto. 
+349. Polegares opositores. 
+350. Questões racistas em vestibular. 
+351. Falar abobrinha. 
+352. Motosserras. 
+353. Nicolas Cage. 
+354. Concursos de beleza para crianças. 
+355. Explosões. 
+356. Cheirar cola. 
+357. Repressão. 
+358. Boa Noite, Cinderela. 
+359. Minha vagina. 
+360. Biquíne fio-dental. 
+361. Chacina. 
+362. Dar-se 110%. 
+363. Sua Alteza Real, Rainha Elizabeth Il. 
+364. O Caminho de Santiago. 
+365. Ser marginalizado. 
+366. Goblins. 
+367. Esperança. 
+368. O reverendo Dr. Martin Luther 
+369. King, Jr. 
+370. Um micro-pênis. 
+371. Minha alma. 
+372. Uma desolação. 
+373. Vikings. 
+374. Gostosas. 
+375. Sedução. 
+376. Complexo de Edipo. 
+377. Gansos. 
+378. Aquecimento global. 
+379. Música New Age. 
+380. Hot PocketsQO,. 
+381. Fazer beicinho. 
+382. Homicídio em direção veicular. 
+383. Sufrágio feminino. 
+384. Um preservativo defeituoso. 
+385. Sessão da Tarde. 
+386. Crianças africanas. 
+387. O massacre no Virginia Tech. 
+388. Barack Obama. 
+389. Asiáticos que não são bons em matemática. 
+390. Homens japoneses idosos. 
+391. Troca de gentilezas. 
+392. Heteronormatividade. 
+393. Separar o Mar Vermelho. 
+394. Arnold Schwarzenegger. 
+395. Sexo oral na direção. 
+396. Barriga tanquinho. 
+397. Pão na chapa. 
+398. Um leão de zoológico deprimido. 
+399. Um saco de feijões mágicos. 
+400. Más decisões ao longo da vida. 
+401. Minha vida sexual. 
+402. Auschwitz. 
+403. Uma tartaruga- mordedora mordiscando a ponta do seu pênis. 
+404. Uma detonação termonucilear. 
+405. O clitóris. 
+406. O Big Bang. 
+407. Minas terréstres. 
+408. Amigos que comem todo o lanche. 
+409. Cabras comendo latas. 
+410. A Dança da Fada Açucarada. 
+411. Masturbar-se em uma poça de lagrimas de crianças. 
+412. Carne humana. 
+413. Tempo pra mim. 
+414. Túneis clandestinos. 
+415. Piadas inoportunas sobre o holocausto. 
+416. Um mar de problemas. 
+417. Histórias de lenhador. 
+418. A voz do Morgan Freeman. 
+419. Mulheres em comerciais de yogurte. 
+420. Aumento peniano natural. 
+421. Ser um feiticeiro filho-da-puta. 
+422. Piercings genitais. 
+423. Travestis que não parecem. 
+424. Brigas de travesseiro sensuais. 
+425. Bolas. 
+426. Vovó. 
+427. Fricção. 
+428. Estraga-festa. 
+429. Peidar e se mandar. 
+430. Ser chato com crianças. 
+431. Colocar armadilhas em casa pra pegar assaltantes. 
+432. Trepar. 
+433. Morrer. 
+434. Furacão Katrina. 
+435. Gays. 
+436. A loucura do homem. 
+437. Homens. 
+438. Os amish. 
+439. Ovos de pterodácitilo. 
+440. Dinâmica de grupo. 
+441. Um tumor cerebral. 
+442. Ter medo de sí próprio. 
+443. Lady Gaga. 
+444. O entregador de leite. 
+445. Dizer o que pensa.

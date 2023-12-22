@@ -4,6 +4,7 @@
 #include <fstream> // arquivos
 #include <cstdlib>
 #include <ctime>
+#include <cstdlib>
 using namespace std;
 
 // o jogador que vai decidir a carta branca vencedora deve jogar a 
@@ -28,7 +29,6 @@ void Control(vector<string> vec, string str, int cont) {
 }
 
 void LoadDeck(vector<string>& vec, int& qtd, string str) {
-
     string str_linha;
     str_linha.clear();
     //int index = -1; // breakpoint
@@ -121,7 +121,7 @@ void TakeCard(string carta, bool& next) {
     }
 }
 
-void ThrowCard(vector<Player>& vec_players, vector<string>& vec_deck) {
+void ThrowCard(vector<Player>& vec_players, /*vector<string>& vec_deck,*/ int qtd) {
 
     bool run = true;
 
@@ -133,7 +133,7 @@ void ThrowCard(vector<Player>& vec_players, vector<string>& vec_deck) {
             cout << "- " << vec_players[i].name << ": ";
             cin >> vec_players[i].cur_card;
 
-            if(vec_players[i].cur_card >= 0 && vec_players[i].cur_card <= static_cast<int>(vec_deck.size())) run = false;
+            if(vec_players[i].cur_card >= 0 && vec_players[i].cur_card <= (qtd-1)) run = false;
             else cout << "Digite um valor valido!!" << endl;
         }
         run = true;        
@@ -187,7 +187,7 @@ void ComputaScore(vector<Player>& vec_players) {
     }
     
     (vec_players[(vencedor-1)].score) += 10;
-
+    system("clear");
 }
 
 void SortDeCria(vector<Player>& vec_players) {
@@ -210,13 +210,9 @@ void SortDeCria(vector<Player>& vec_players) {
 }
 
 void Scoreboard(vector<Player>& vec_players) {
-
     int i=0;
-
     SortDeCria(vec_players); // ordena o vector em ordem decrescente
-
     cout << endl << "\t\t- - - - " << vec_players[0].name << " venceu com " << vec_players[0].score << " pontos!!! - - - -" << endl << endl;
-
     cout << "Placar final: " << endl;
     
     for(Player x : vec_players) {
@@ -235,22 +231,22 @@ int main() {
     string carta_atual;
 
     bool next = true;
-    int qtd_frases=0;
+    int qtd_pretas=0;
     int qtd_brancas=0;
 
-    LoadDeck(vec_deck, qtd_frases, "BlackDeck.txt"); // carrega as frases para vec_deck
+    LoadDeck(vec_deck, qtd_pretas, "BlackDeck.txt"); // carrega as frases para vec_deck
     LoadDeck(white_deck, qtd_brancas, "WhiteDeck.txt"); // carrega o baralho branco
 
     Menu(vec_players);
 
-    while (qtd_frases>0 && next) {
+    while (qtd_pretas>0 && next) {
 
-        RandomCard(carta_atual, vec_deck, qtd_frases);
+        RandomCard(carta_atual, vec_deck, qtd_pretas);
         TakeCard(carta_atual, next);
 
         if(next) {
             // todos os jogadores devem inserir o numero das suas cartas
-            ThrowCard(vec_players, vec_deck);
+            ThrowCard(vec_players, /*vec_deck,*/ qtd_brancas);
             
             // exibir as cartas de forma aleatoria sem os numeros do comeco, mas de 1 -
             ShowThrow(vec_players, white_deck);

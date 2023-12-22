@@ -1,92 +1,75 @@
-00. BLACK0
-01. BLACK1
-02. BLACK2
-03. BLACK3
-04. BLACK4
-05. BLACK5
-06. BLACK6
-07. BLACK7
-08. BLACK8
-09. BLACK9
-10. BLACK10
-11. BLACK11
-12. BLACK12
-13. BLACK13
-14. BLACK14
-15. BLACK15
-16. BLACK16
-17. BLACK17
-18. BLACK18
-19. BLACK19
-20. BLACK20
-21. BLACK21
-22. BLACK22
-23. BLACK23
-24. BLACK24
-25. BLACK25
-26. BLACK26
-27. BLACK27
-28. BLACK28
-29. BLACK29
-30. BLACK30
-31. BLACK31
-32. BLACK32
-33. BLACK33
-34. BLACK34
-35. BLACK35
-36. BLACK36
-37. BLACK37
-38. BLACK38
-39. BLACK39
-40. BLACK40
-41. BLACK41
-42. BLACK42
-43. BLACK43
-44. BLACK44
-45. BLACK45
-46. BLACK46
-47. BLACK47
-48. BLACK48
-49. BLACK49
-50. BLACK50
-51. BLACK51
-52. BLACK52
-53. BLACK53
-54. BLACK54
-55. BLACK55
-56. BLACK56
-57. BLACK57
-58. BLACK58
-59. BLACK59
-60. BLACK60
-61. BLACK61
-62. BLACK62
-63. BLACK63
-64. BLACK64
-65. BLACK65
-66. BLACK66
-67. BLACK67
-68. BLACK68
-69. BLACK69
-70. BLACK70
-71. BLACK71
-72. BLACK72
-73. BLACK73
-74. BLACK74
-75. BLACK75
-76. BLACK76
-77. BLACK77
-78. BLACK78
-79. BLACK79
-80. BLACK80
-81. BLACK81
-82. BLACK82
-83. BLACK83
-84. BLACK84
-85. BLACK85
-86. BLACK86
-87. BLACK87
-88. BLACK88
-89. BLACK89
-90. BLACK90
-91. BLACK91
+00. Resolucao na ANAC agora proibe ____ em aeronaves.
+01. E uma pena que as crianças hoje em dia estejam todas envolvidas em ____.
+02. Em 1000 anos, quando o dinheiro de papel for apenas uma lembrança distante, ____ será a nossa moeda.
+03. CBF proibe ____ por proporcionar vantagem desleal aos jogadores.
+04. Qual eh o prazer proibido do Batman?.
+05. Vem ai o novo livro de JK Rowling: Harry Potter e a Camara de ____.
+06. Desculpe professora mas é que eu nao pude terminar o dever de casa por causa de ____.
+07. O que eu trouxe do Paraguai?.
+08. ____? Tem um app pra isso.
+09. ____: Aposto que um so nao de satisfaz!.
+10. Qual eh meu anti-droga?.
+11. Enquanto os EUA e a URSS competiam na corrida espacial, o governo brasileiro investia pesado em: ____.
+12. No novo filme da Disney, Hanna Montana enfrenta ____ pela primeira vez.
+13. Qual é meu poder secreto?.
+14. Qual é a dieta do momento?.
+15. O que o Vin Diesel comeu na janta?.
+16. Como estou mantendo minha relacao amorosa?.
+17. Qual eh o cumulo da porquice?.
+18. Dizem que em Candeias se troca dez macos de cigarro por ____.
+19. Proximo natal o Papai Noel vai dar ____ para crianca que nao se comportar.
+20. A vida dos indios americanos mudou para sempre quando o homem branco lhes apresentou ____.
+21. O que o Ministerio da Educacao esta usando para inspirar os estudantes do interior a serem bem sucedidos?.
+22. Talvez ela tenha nascido assim, talvez seja ____.
+23. Em seus momentos finais, Michael Jackson pensou em ____.
+24. Macho alfa gosta eh de ____.
+25. Por que eu estou todo doido? (de dor, nao de maluquicekkk).
+26. Um jantar a luz de velas seria incompleto sem ____.
+27. O que eu levaria ao passado pra convencer as pesoas de que sou um magico poderoso?.
+28. Em breve, numa livraria perto de voce, ____.
+29. A excursao escolar foi um fiasco devido a ____.
+30. Qual eh o melhor amigo de uma garota?.
+31. Doutor Drauzio, estou tendo problemas com ____ e gostaria de ouvir seu conselho.
+32. Quando eu for presidente, criarei o departamento de ____.
+33. O que meus pais estao escondendo de mim?.
+34. O que eh que nunca falha em deixar uma festa mais animada?.
+35. O que eh que fica melhor quando envelhece?.
+36. ____: bom ate a ultima gota.
+37. Estou com 99 problemas, mas ____ nao eh um deles.
+38. ____ eh uma armadilha!.
+39. Novo reality-show do sbt apresenta oito celebridades desgastadas morando com ____.
+40. O que eh que vovo acharia perturbante mas estranhamente charmoso?.
+41. O que eh mais EMO?.
+42. Durante o sexo, gosto de pensar em ____.
+43. O que causou o fim da minha ultima relacao?.
+44. Que som eh esse?.
+45. ____: eh assim que eu espero morrer.
+46. Por que minha pele esta pegajosa?.
+47. Qual eh o proximo brinde do McLanche Feliz?.
+48. O que eh que tem a vontade em Jaboatao?.
+49. Nao sei com que armas se lutara a terceira guerra mundial, mas a quarta sera com ____.
+50. O que eh tiro e queda para conseguir uma mamada?.
+51. ____: testado pelas criancas, aprovado pelas maes.
+52. Por que nao consigo dormir a noite?.
+53. Que cheiro eh esse?.
+54. O que ajuda o Bolsonaro a relaxar depois do trabalho?.
+55. O que ajuda o Lula a relaxar depois do trabalho?.
+56. O mundo acabaria nao com uma explosao, mas com ____.
+57. Chega a Broadway nesta temporada o musical ____.
+58. Antropologos descobriram recentemente uma tribo primitiva que ainda pratica ____.
+59. Mas, antes de mata-lo, Mr. Bond, precido te mostrar ____.
+60. Estudo mostra que ratos de laboratorio atravessam labirintos 50% mais rapido depois de serem expostos a ____.
+61. Qual eh a proxima dupla de superheroi e ajudante?
+62. A seguir, no sportv2: Campeonato Mundial de ____.
+63. Quando eu for bilionario, mandarei fazer uma estatua de 15 metros de altura para celebrar ____.
+64. Buscando aumentar sua audiencia, o Museu Cais do Sertao abriu uma exposicao interativa sobre ____.
+65. Guerra! Pra que serve?.
+66. O que me causa gases incontrolaveis?.
+67. Idoso tem cheiro de ____.
+68. A medicina alternativa esta explorando agora os poderes curativos de ____.
+69. Estoriadores encontraram dezenas de cadernos de Picasso com esbocos de ____.
+70. O que voce espera nao achar em seu prato de comida chinesa?.
+71. Bebo para esquecer ____.
+72. ____, to dentro!.
+73. ____, as mina pira!.
+74. ____, vei, na boa.
